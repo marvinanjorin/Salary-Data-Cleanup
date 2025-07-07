@@ -36,6 +36,13 @@ By the end of the process, I had a clean and structured dataset ready for furthe
 Synthetic data generated for learning purposes.
 
 ---
+## 📎 Files
+
+- **Salary_Data_Cleanup.xlsx** – Contains both the original (messy) and cleaned salary data in separate sheets.
+  - `Raw Data`: The unstructured, synthetic dataset with nulls and duplicates.
+  - `Cleaned Data`: The structured, cleaned version ready for analysis.
+
+📥 [Download the Excel file](https://github.com/marvinanjorin/Salary-Data-Cleanup/raw/main/Salary_Data_Cleanup.xlsx)
 
 
 
